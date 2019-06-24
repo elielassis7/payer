@@ -1,0 +1,7 @@
+C:\Users\Eliel\source\repos\Payer\Payer\obj\Debug\Payer.csprojAssemblyReference.cache
+C:\Users\Eliel\source\repos\Payer\Payer\obj\Debug\Payer.csproj.CoreCompileInputs.cache
+C:\Users\Eliel\source\repos\Payer\Payer\bin\Debug\Payer.exe.config
+C:\Users\Eliel\source\repos\Payer\Payer\bin\Debug\Payer.exe
+C:\Users\Eliel\source\repos\Payer\Payer\bin\Debug\Payer.pdb
+C:\Users\Eliel\source\repos\Payer\Payer\obj\Debug\Payer.exe
+C:\Users\Eliel\source\repos\Payer\Payer\obj\Debug\Payer.pdb
